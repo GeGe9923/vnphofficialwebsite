@@ -1,0 +1,6 @@
+.home{
+    width: 100%;
+    height: 100vh;
+    background: rgb(108,94,94);
+    background: linear-gradient(0deg, rgba(108,94,94,1) 0%, rgba(167,111,62,1) 6%, rgba(236,170,49,0.9764238459055498) 39%);
+}
